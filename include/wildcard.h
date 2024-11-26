@@ -105,3 +105,4 @@ bool wildcard(STR_TYPE const * pattern, STR_TYPE const* input);
 #ifdef __cplusplus
 }
 #endif
+#endif
